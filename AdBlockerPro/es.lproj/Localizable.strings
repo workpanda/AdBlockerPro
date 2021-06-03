@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  AdBlockerPro
+
+  Created by Passion on 11/2/15.
+  Copyright © 2015 dakyuz. All rights reserved.
+*/
+"more speed" = "más velocidad";
+"more battery" = "más batería";
+"more privacy" = "más privacidad";
+"First Steps:" = "Primeros pasos:";
+"Open Settings App" = "Abrir Ajustes";
+"Tap Safari" = "Toque en Safari";
+"Then Content Blockers" = "Bloqueadores Entonces contenido";
+"Enable AdBlock Pro" = "Habilitar AdBlock Pro";
+"Next" = "Siguiente";
+"Enabled" = "Activado";
+"Block Ads" = "Los anuncios del bloque";
+"Block Youtube Ads" = "Bloque Youtube Anuncios";
+"Block Tracker" = "Bloquear Tracker";
+"Block Facebook" = "Bloquear Facebook Widget";
+"Block Twitter" = "Bloquear Twitter Widget";
+"Block Other" = "Bloquear otra Reproductores";
+"Block Malware Sites" = "Bloquear sitios de fraude";
+"Block Adult Sites" = "Bloquea sitios para adultos";
+"Block Web Fonts" = "Bloquear Web Fuentes";
+"rules" = "reglas";
+"ADS" = "ADS";
+"PRIVACY" = "PRIVACIDAD";
+"SOCIAL TRACKER" = "TRACKER SOCIAL";
+"MALWARE & ADULT" = "MALWARE Y ADULTOS";
+"MULTIPURPOSE & BANDWIDTH" = "MULTIUSOS Y ANCHO DE BANDA";
+"Happy with AdBlock Pro?" = "Feliz con AdBlock Pro?";
+"Upgrade to enable Tracker blockers" = "Actualizar a enbable múltiples bloqueadores";
+"About & Help" = "Acerca de & ayuda";
+"Block" = "Bloquear";
+"Search" = "Buscar";
+"Upgrade membership" = "Versión Pro";
+"Are you sure to upgrade to the Premium version to enable Tracker blockers?" = "Habilitar todos bloqueador + actualizaciones automáticas para toda la vida!";
+"Upgrade to Premium Version:" = "Asciende a Premium Versión:";
+"Restore Purchase" = "Restaurar Compra";
+"No, Thanks" = "No, gracias";
+"Popular Adblocker with the goal to remove all in your Safari Browser!" = "Adblocker Popular con el objetivo de eliminar todos los anuncio en su navegador Safari!";
+"Send Feedback" = "Enviar comentarios";
+"Rate us" = "Valorar con nosotros";
+"Tutorial" = "Tutorial";
+"Please open Settings" = "Por favor, abra Configuración";
+"Select \"Safari\"" = "Seleccione \"Safari\"";
+"Open \"Content Blockers\"" = "Abiertas \"bloqueadores de contenido\"";
+"Activate AdBlock Pro" = "Activar AdBlock Pro";
+"Warning" = "Advertencia";
+"Please upgrade to Premium version to enable Tracker blockers" = "Por favor, actualice a la versión mejorada para permitir que rastreador bloqueadores";
+"Upgrade" = "Upgrade";
+"Finished all steps to activate AdBlock Pro?" = "Concluidas todas las medidas para activar AdBlock Pro?";
+"Not yet" = "Aún no";
+"Done" = "Hecho";
+"Hide" = "Esconder";
+"This package is disabled." = "Este paquete está desactivado.";
+"Close" = "Cerca";
+"Premium activated (all blocker + updates)" = "Premium activado (bloqueador + actualizaciones)";
+"Are you enjoying Adblock Pro?" = "¿Estás disfrutando de Adblock Pro?";
+"Congratulations all Blocker + automatic updates are activated!" = "Todo Bloqueador + automatic. actualizaciones activado!";

@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  AdBlockerPro
+
+  Created by Passion on 11/2/15.
+  Copyright © 2015 dakyuz. All rights reserved.
+*/
+
+"more speed" = "more speed";
+"more battery" = "more battery";
+"more privacy" = "more privacy";
+"First Steps:" = "First Steps:";
+"Open Settings App" = "Open Settings";
+"Tap Safari" = "Tap Safari";
+"Then Content Blockers" = "Then Content Blockers";
+"Enable AdBlock Pro" = "Enable AdBlock Pro";
+"Next" = "Next";
+"Enabled" = "Enabled";
+"Block Ads" = "Block Ads";
+"Block Youtube Ads" = "Block Youtube Ads";
+"Block Tracker" = "Block Tracker";
+"Block Facebook" = "Block Facebook Widget";
+"Block Twitter" = "Block Twitter Widget";
+"Block Other" = "Block Other Widgets";
+"Block Malware Sites" = "Block Fraud Sites";
+"Block Adult Sites" = "Block Adult Sites";
+"Block Web Fonts" = "Block Web Fonts";
+"rules" = "rules";
+"ADS" = "ADS";
+"PRIVACY" = "PRIVACY";
+"SOCIAL TRACKER" = "SOCIAL TRACKER";
+"MALWARE & ADULT" = "MALWARE & ADULT";
+"MULTIPURPOSE & BANDWIDTH" = "MULTIPURPOSE & BANDWIDTH";
+"Happy with AdBlock Pro?" = "Happy with AdBlock Pro?";
+"Upgrade to enable Tracker blockers" = "Upgrade to Premium for all blocker + Updates!";
+"About & Help" = "About & Help";
+"Block" = "Block";
+"Search" = "Search";
+"Upgrade membership" = "Upgrade to Premium Version";
+"Are you sure to upgrade to the Premium version to enable Tracker blockers?" = "Enable all blocker like Tracker + automatic updates for lifetime!";
+"Upgrade to Premium Version:" = "Upgrade to Premium Version:";
+"Restore Purchase" = "Restore Purchase";
+"No, Thanks" = "No, Thanks";
+"Popular Adblocker with the goal to remove all in your Safari Browser!" = "Popular Adblocker with the goal to remove all ads in your Safari Browser!";
+"Send Feedback" = "Send Feedback";
+"Rate us" = "Rate us";
+"Tutorial" = "Tutorial";
+"Please open Settings" = "Please open Settings";
+"Select \"Safari\"" = "Select \"Safari\"";
+"Open \"Content Blockers\"" = "Open \"Content Blockers\"";
+"Activate AdBlock Pro" = "Activate AdBlock Pro";
+"Warning" = "Warning";
+"Please upgrade to Premium version to enable Tracker blockers" = "Please upgrade to Premium version to enable Tracker blockers";
+"Upgrade" = "Upgrade";
+"Finished all steps to activate AdBlock Pro?" = "Finished all steps to activate Adblock? \nSettings > Safari -> Content Blocker activated?";
+"Not yet" = "Not yet";
+"Done" = "Done";
+"Hide" = "Hide";
+"This package is disabled." = "This package is disabled.";
+"Close" = "Close";
+"Premium activated (all blocker + updates)" = "Premium activated (all blocker + updates)";
+"Are you enjoying Adblock Pro?" = "Are you enjoying Adblock Pro?";
+"Congratulations all Blocker + automatic updates are activated!" = "Congratulations all Blocker + automatic updates are activated!";
+

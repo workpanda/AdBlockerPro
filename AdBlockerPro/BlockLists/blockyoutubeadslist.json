@@ -1,0 +1,200 @@
+ [
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".youtubeSuperLeaderBoardAdHolder"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".youtubeSuperLeaderOverallAdArea"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#feedmodule-PRO"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#homepage-chrome-side-promo"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#premium-yva"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#search-pva"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#shelf-pyv-container"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#video-masthead"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#watch-branded-actions"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#watch-buy-urls"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "#watch-channel-brand-div"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".carousel-offer-url-container"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".list-view[style=\"margin: 7px 0pt;\"]"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".promoted-videos"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".searchView.list-view"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".watch-extra-info-column"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".watch-extra-info-right"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "a[href^=\"http://www.youtube.com/cthru?\"]"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "a[href^=\"https://www.youtube.com/cthru?\"]"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://([^/]*\\.)?m\\.youtube\\.com/"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": "a[onclick*=\"\\\"ping_url\\\":\\\"http://www.google.com/aclk?\"]"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://youtube\\.com/yva_video\\?adformat=",
+  "resource-type": [
+                    "raw"
+                    ],
+  "if-domain": [
+                "nfl.com",
+                "www.nfl.com",
+                "viki.com",
+                "www.viki.com"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  }
+  
+  ]

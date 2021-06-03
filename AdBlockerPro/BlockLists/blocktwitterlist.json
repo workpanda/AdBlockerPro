@@ -1,0 +1,87 @@
+ [
+  {
+  "trigger": {
+  "url-filter": "^https?://platform\\.twitter\\.com/widgets\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://cdn\\.api\\.twitter\\.com/1/urls/count\\.json",
+  "resource-type": [
+                    "image",
+                    "style-sheet",
+                    "script",
+                    "font",
+                    "media",
+                    "raw",
+                    "document"
+                    ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://urls\\.api\\.twitter\\.com/1/urls/count\\.json",
+  "resource-type": [
+                    "image",
+                    "style-sheet",
+                    "script",
+                    "font",
+                    "media",
+                    "raw",
+                    "document"
+                    ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".twitter-follow-button"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".twitter-mention-button"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".twitter-share-button"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".twitter-hashtag-button"
+  }
+  }
+  ]

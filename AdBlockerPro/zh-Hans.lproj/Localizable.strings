@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  AdBlockerPro
+
+  Created by Passion on 11/2/15.
+  Copyright © 2015 dakyuz. All rights reserved.
+*/
+"more speed" = "更佳速度";
+"more battery" = "更长待机";
+"more privacy" = "更加隐私";
+"First Steps:" = "第一步：";
+"Open Settings App" = "打开设定";
+"Tap Safari" = "点击 Safari";
+"Then Content Blockers" = "点击Content Blockers";
+"Enable AdBlock Pro" = "允许 AdBlock Pro";
+"Next" = "下一个";
+"Enabled" = "以允许";
+"Block Ads" = "拦载广告";
+"Block Youtube Ads" = "拦载youtube";
+"Block Tracker" = "拦载Tracker        ";
+"Block Facebook" = "拦载Facebook 微件";
+"Block Twitter" = "拦载Twitter 微件";
+"Block Other" = "拦载其他来源 微件";
+"Block Malware Sites" = "阻断恶意网站";
+"Block Adult Sites" = "拦载成人网站";
+"Block Web Fonts" = "拦载网上字体";
+"rules" = "规定";
+"ADS" = "广告";
+"PRIVACY" = "隐私";
+"SOCIAL TRACKER" = "社会跟踪";
+"MALWARE & ADULT" = "恶意和成人";
+"MULTIPURPOSE & BANDWIDTH" = "多用和带宽";
+"Happy with AdBlock Pro?" = "AdBlock Pro带给您乐意了吗？";
+"Upgrade to enable Tracker blockers" = "升级启用跟踪阻滞剂";
+"About & Help" = "关于&帮助";
+"Block" = "拦载";
+"Search" = "搜索";
+"Upgrade membership" = "升级到高级版本";
+"Are you sure to upgrade to the Premium version to enable Tracker blockers?" = "像Tracker一样放开全部拦载功能和终身自动升级";
+"Upgrade to Premium Version:" = "升级到高级版本 ：";
+"Restore Purchase" = "修复购买";
+"No, Thanks" = "不、谢谢。";
+"Popular Adblocker with the goal to remove all in your Safari Browser!" = "您的Safari浏览器上去除广告的最佳广告拦载工具";
+"Send Feedback" = "犯规意见";
+"Rate us" = "给我们打分";
+"Tutorial" = "教程";
+"Please open Settings" = "请打开设定页面";
+"Select \"Safari\"" = "选择\“Safari\”";
+"Open \"Content Blockers\"" = "打开\“内容拦载\”";
+"Activate AdBlock Pro" = "激活 AdBlock Pro";
+"Warning" = "警告";
+"Please upgrade to Premium version to enable Tracker blockers" = "请升级到高级版本。";
+"Upgrade" = "升级";
+"Finished all steps to activate AdBlock Pro?" = "完成了所有步骤激活的AdBlock Pro的？";
+"Not yet" = "还没";
+"Done" = "做完";
+"Hide" = "藏";
+"This package is disabled." = "这个包是禁用的。";
+"Close" = "关闭";
+"Premium activated (all blocker + updates)" = "已升级到高级会员（全部拦载、自动更新）";
+"Are you enjoying Adblock Pro?" = "你享受的Adblock临？";

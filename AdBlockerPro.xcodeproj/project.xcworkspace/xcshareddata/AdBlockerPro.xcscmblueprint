@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FF84FBC96296794E7A9EB0407EB7F500088F0EE3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "883C9752BD9477CD639B7CEE3D23D521F12DA503" : 0,
+    "FF84FBC96296794E7A9EB0407EB7F500088F0EE3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FB7C729A-56BC-441B-AA32-660BA85CD10E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "883C9752BD9477CD639B7CEE3D23D521F12DA503" : "",
+    "FF84FBC96296794E7A9EB0407EB7F500088F0EE3" : "AdBlockerPro\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AdBlockerPro",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AdBlockerPro\/AdBlockerPro.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AshwinThomas0\/Grid-Alpha.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "883C9752BD9477CD639B7CEE3D23D521F12DA503"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/wang198904\/adblocker-pro.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FF84FBC96296794E7A9EB0407EB7F500088F0EE3"
+    }
+  ]
+}

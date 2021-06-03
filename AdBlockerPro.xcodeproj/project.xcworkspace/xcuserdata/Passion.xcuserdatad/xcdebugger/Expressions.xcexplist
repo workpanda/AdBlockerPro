@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MainVC tableView:cellForRowAtIndexPath:]:MainVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[AdBlockManager sharedInstance].arrBlockList.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GuideVC initUI]:GuideVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UIImage imageNamed:@&quot;intro-2_iPad&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AdBlockManager blockList:on:]:AdBlockManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[AdBlockManager sharedInstance].arrBlockList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AdBlockManager createBlockListArray]:AdBlockManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MainVC initUI]:MainVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[AdBlockManager sharedInstance].acceptableAdsEnabled]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

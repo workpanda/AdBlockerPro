@@ -1,0 +1,102 @@
+ [
+  {
+  "trigger": {
+  "url-filter": "^https?://connect\\.facebook\\.net/en_US/all\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://connect\\.facebook\\.net/en_US/fbds\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://www\\.facebook\\.com/plugins/like.*",
+  "resource-type": [
+                    "image",
+                    "style-sheet",
+                    "script",
+                    "font",
+                    "media",
+                    "raw",
+                    "document"
+                    ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".fb-like"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".fb-share-button"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".fb-send"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".fb-comments"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".fb-page"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://"
+  },
+  "action": {
+  "type": "css-display-none",
+  "selector": ".fb-follow"
+  }
+  }
+  ]

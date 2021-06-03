@@ -1,0 +1,28 @@
+ [
+  {
+  "trigger": {
+  "url-filter": "^https?://",
+  "resource-type": [
+                    "font"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://",
+  "resource-type": [
+                    "font"
+                    ]
+  },
+  "action": {
+  "type": "block"
+  }
+  }
+  
+  ]

@@ -1,0 +1,302 @@
+ [
+  {
+  "trigger": {
+  "url-filter": "^https?://sumome",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://load\\.sumome\\.com",
+  "resource-type": [
+                    "image",
+                    "style-sheet",
+                    "script",
+                    "font",
+                    "media",
+                    "raw",
+                    "document"
+                    ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://apis\\.google\\.com/js/platform\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://apis\\.google\\.com/js/plusone\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://plus\\.google\\.com/js/client:plusone\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://www\\.reddit\\.com/buttonlite\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://www\\.redditstatic\\.com/button",
+  "resource-type": [
+                    "image",
+                    "style-sheet",
+                    "script",
+                    "font",
+                    "media",
+                    "raw",
+                    "document"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://www\\.reddit\\.com/static/button",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://www\\.redditstatic\\.com/spreddit",
+  "resource-type": [
+                    "image",
+                    "style-sheet",
+                    "script",
+                    "font",
+                    "media",
+                    "raw",
+                    "document"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://assets\\.pinterest\\.com/js/print\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://widgets\\.pinterest\\.com/v1/urls/count\\.json",
+  "resource-type": [
+                    "image",
+                    "style-sheet",
+                    "script",
+                    "font",
+                    "media",
+                    "raw",
+                    "document"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://api\\.pinterest\\.com/v1/urls/count\\.json",
+  "resource-type": [
+                    "image",
+                    "style-sheet",
+                    "script",
+                    "font",
+                    "media",
+                    "raw",
+                    "document"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  
+  {
+  "trigger": {
+  "url-filter": "^https?://urls\\.api\\.twitter\\.com/1/urls/count\\.json",
+  "resource-type": [
+                    "image",
+                    "style-sheet",
+                    "script",
+                    "font",
+                    "media",
+                    "raw",
+                    "document"
+                    ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://widgets\\.getpocket\\.com/v1/j/btn\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://platform\\.stumbleupon\\.com/1/widgets\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://cdn\\.script\\.to/share2\\.js",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "sharethis\\.com",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "platform\\.linkedin\\.com",
+  "resource-type": [
+                    "script"
+                    ],
+  "load-type": [
+                "third-party"
+                ]
+  },
+  "action": {
+  "type": "block"
+  }
+  },
+  {
+  "trigger": {
+  "url-filter": "^https?://www\\.linkedin\\.com/countserv/count/share",
+  "resource-type": [
+                    "image",
+                    "style-sheet",
+                    "script",
+                    "font",
+                    "media",
+                    "raw",
+                    "document"
+                    ]
+  },
+  "action": {
+  "type": "block"
+  }
+  }
+  ]
