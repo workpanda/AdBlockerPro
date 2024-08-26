@@ -46,6 +46,7 @@ static AdBlockManager *sharedInstance = nil;
     if (self = [super init])
     {
         _bundleName = [[[[[NSBundle mainBundle] bundleIdentifier] componentsSeparatedByString:@"."] subarrayWithRange:NSMakeRange(0, 2)] componentsJoinedByString:@"."];
+        //I am younger brother of ying
         /*
         NSString *group = [NSString stringWithFormat:@"group.%@.%@", _bundleName, @"AdBlockerPro"];
         */
@@ -53,13 +54,14 @@ static AdBlockManager *sharedInstance = nil;
         _adblockProDetails = [[NSUserDefaults alloc] initWithSuiteName:kGroupName];
         
         NSLog(@"Group Name: %@", kGroupName);
-        
+        // Ying hope you are doing great.
         [_adblockProDetails registerDefaults:
          @{ AdblockProActivated: @NO,
             AdblockProEnabled: @YES
             }]; //            AdblockProAcceptableAdsEnabled: @YES
-        
+        // and he ask if you can transfer the WATI project to me.
         _enabled = [_adblockProDetails boolForKey:AdblockProEnabled];
+        // *** and please share your github id, so I can add you as collaborate to this project. and you can commit your update here.
         _activated = [_adblockProDetails boolForKey:AdblockProActivated];
     }
     return self;
